@@ -1,1 +1,1 @@
-Fonctionnalite : connexion utilisateur et administrateur
+Fonctionnalite : connexion securisee 
